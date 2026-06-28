@@ -1,0 +1,22 @@
+{
+  "name": "test_cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sombrero-corleone/test_cicd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sombrero-corleone/test_cicd/issues"
+  },
+  "homepage": "https://github.com/sombrero-corleone/test_cicd#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
